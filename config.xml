@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Project>
+  <Game name="Civilication 6"> 
+      <Language name="Türkçe">
+           <Pack path="packets/civ6/tr/packet_1.zip"/> 
+      </Language>
+  </Game>
+</Project>
